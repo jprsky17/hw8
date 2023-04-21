@@ -1,0 +1,22 @@
+1.) Species
+
+zebrafish
+
+2.) Gene
+
+ENSDART00000155402 (mxv)
+
+3.) Rank 1 target sequence and genomic location
+
+GCATTGGCACATAGTCCGTGAGG
+
+Chr15:5105766
+
+4.) One primer pair that you can use to check the crispant genotypes.
+Report sequence and coordinates for left and right primers
+
+1	chr15:5105766-5105788	caaatttaaaagCACCCACACA	59.9	0	chr15:5106027-5106049	CTGGTGCTGATCAGTTCTTGAG	60.1	0
+
+5.) If you knock out this gene, what is your expected phenotype?
+
+This gene is downregulated following acute deafferentation injury. If this gene was knocked out via gene editing with crisper potential effects could hypothetically mirror the effect of such an injury potentially causing reduced dendritic complexity withing neuronal tissue.
